@@ -1,0 +1,8 @@
+{
+  "name": "Số hoá Văn bia, Hoành phi, Câu đối",
+  "description": "Dự án phi lợi nhuận số hoá, tra cứu phiên âm, dịch nghĩa và tìm hiểu di sản văn bia, hoành phi, câu đối tại các di tích Việt Nam (Mã đề tài: A05 - FPT Polytechnic x IMTA TECH).",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
